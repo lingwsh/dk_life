@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 生活在丹麦
-subtitle: 让更多的中国人好好生活在丹麦
-description: 已经在丹麦的中国人帮助刚来的丹麦的中国人和想来丹麦的中国人
-author: 童话王国的探路者
+title: 笨笨DK生活
+subtitle: 让在丹麦生活/工作/学习更轻松
+description: 对丹麦生活感兴趣的所有人
+author: 笨笨
 language: zh-CN
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://zdlm.github.io/
-root: /guide/
+url: https://lingwsh.github.io/
+root: /dk_life/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
@@ -69,8 +69,8 @@ theme: hexo-theme-next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:zdlm/guide.git
-  branch: gh-pages
+  repo: git@github.com:lingwsh/dk_life.git
+  branch: main
 # local search
 search:
   path: search.xml
