@@ -70,7 +70,7 @@ theme: hexo-theme-next
 deploy:
   type: git
   repo: git@github.com:lingwsh/dk_life.git
-  branch: main
+  branch: gh-pages
 # local search
 search:
   path: search.xml
